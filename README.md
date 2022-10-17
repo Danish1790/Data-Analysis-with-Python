@@ -1,2 +1,2 @@
 # Data-Analysis-with-Python
-IBM data analysis with python
+IBM data analysis with Pandas. 
